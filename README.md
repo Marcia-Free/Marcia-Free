@@ -8,6 +8,7 @@ Working with different technologies has given me an insight into implementing so
 
 - 🔭 I’m currently working on Sprig Focus.
 - 🌱 I’m currently re-learning C# and Unity.
+- ⚡ Fun fact: In my spare time I enjoy gardening and converting my bus into a tiny home on wheels.
 
 ## Fav Projects 📚
 
