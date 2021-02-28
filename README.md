@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="devicon.min.css">
-
 # Hey there! My name's Marcia 🌲🌲🚌🌲
 
 I'm a Full-stack Software Engineer with a fondness for orchestrating innovative and engaging ideas into memorable app experiences. I am experienced in Ruby on Rails and JavaScript-based programming with a background in Information Technology. 
@@ -29,11 +27,12 @@ Working with different technologies has given me an insight into implementing so
 
 
 ## Get in Touch ✉️
+- [LinkedIn](http://www.linkedin.com/in/marcia-freeman)
+- [Website](http://marcia-freeman.com)
 
 
 ### Skills 💻
 Ruby, Rails, Active Directory, Javascript, React, Redux, Unity, C#, HTML, CSS, Game Development, Git, Heroku, SQL, Node.js, PostgreSQL, Phaser3
-
 
 
 
