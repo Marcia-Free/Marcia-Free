@@ -4,7 +4,7 @@ I'm a Full-stack Software Engineer with a fondness for orchestrating innovative 
 
 Working with different technologies has given me an insight into implementing solutions tailored to a specific audience’s needs. Simply said, I get things done and I enjoy the process!
 #
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcia-Free&show_icons=true&theme=merko)](https://github.com/Marcia-Free/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcia-Free&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on Sprig Focus.
 - 🌱 I’m currently re-learning C# and Unity.
