@@ -29,7 +29,7 @@ Working with different technologies has given me an insight into implementing so
 
 ## Get in Touch ✉️
 - [LinkedIn](http://www.linkedin.com/in/marcia-freeman)
-- [Website](http://marcia-freeman.com)
+
 
 
 ### Skills 💻
@@ -39,6 +39,8 @@ Ruby, Rails, Active Directory, Javascript, React, Redux, Unity, C#, HTML, CSS, G
 
 <!--
 **Marcia-Free/Marcia-Free** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+- [Website](http://marcia-freeman.com)
 
 Here are some ideas to get you started:
 
