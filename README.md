@@ -16,7 +16,7 @@ Working with different technologies has given me an insight into implementing so
 
 🌿 A Javascript React/Redux application made to help people keep track of their goals while providing incentives to stay on track. Meant to gamify the experience of managing your goals by adding a virtual pet named Sprig.
 
-**Space Trials**  [Video Demo](https://youtu.be/5gz5DKMdtH8) | [Frontend Repo](https://github.com/Marcia-Free/Space_Trials_frontend)
+**Space Trials**  [Video Demo](https://youtu.be/5gz5DKMdtH8) | [Demo](https://muhidin123.github.io/space-invaders-game-fe/) | [Frontend Repo](https://github.com/Marcia-Free/Space_Trials_frontend)
 
 🌌 A Javascript 2D platformer made with the Phaser3 Game engine set in space.
 
