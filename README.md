@@ -33,7 +33,7 @@ Working with different technologies has given me an insight into implementing so
 
 
 ### Skills 💻
-Ruby, Rails, Active Directory, Javascript, React, Redux, Unity, C#, HTML, CSS, Game Development, Git, Heroku, SQL, Node.js, PostgreSQL, Phaser3
+Ruby, Rails, Active Directory, Javascript, React, Redux, Unity, C#, HTML, CSS, Game Development, Git, Github, Heroku, SQL, Node.js, PostgreSQL, Phaser3
 
 
 
