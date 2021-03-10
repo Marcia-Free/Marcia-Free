@@ -1,4 +1,4 @@
-# Hey there! My name's Marcia 🌲🌲🚌🌲
+# Hey there! My name's Marcia 🌲🌲🌲🚌🌲🌲
 
 I'm a Full-stack Software Engineer with a fondness for orchestrating innovative and engaging ideas into memorable app experiences. I am experienced in Ruby on Rails and JavaScript-based programming with a background in Information Technology. 
 
