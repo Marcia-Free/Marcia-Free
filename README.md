@@ -6,7 +6,7 @@ Working with different technologies has given me an insight into implementing so
 #
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcia-Free&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on Sprig Focus.
+- 🔭 I’m currently working on a Small Prototype in Unity.
 - 🌱 I’m currently re-learning C# and Unity.
 - ⚡ Fun fact: In my spare time I enjoy gardening and converting my bus into a tiny home on wheels.
 
