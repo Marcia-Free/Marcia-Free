@@ -29,6 +29,7 @@ Working with different technologies has given me an insight into implementing so
 
 ## Get in Touch ✉️
 - [LinkedIn](http://www.linkedin.com/in/marcia-freeman)
+- [Portfolio Site](https://marcia-freeman.com)
 
 
 
